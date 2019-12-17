@@ -20,3 +20,5 @@ A-Z Letters
 - Boxes for Letters
 - Question Box
 
+#### Trailer:
+Click on [this link](http://youtu.be/1uaiFFJUWQo) to watch the trailer of the game.
